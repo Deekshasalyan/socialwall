@@ -97,7 +97,3 @@ nav a:hover::after {
   background-color: rgba(255, 107, 107, 0.1);
 }
 
-.add-post-link:hover {
-  color: #ff4d4d;
-  background-color: rgba(255, 107, 107, 0.1);
-}
