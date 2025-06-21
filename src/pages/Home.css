@@ -1,0 +1,15 @@
+.home-container {
+  width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+  font-style: oblique;
+}
+.p{
+ text-decoration-color: blue;
+}
+
+body{
+  background-color: aquamarine;
+  background-image: url("https://media.istockphoto.com/id/637831722/photo/environmentally-friendly-art.jpg?s=612x612&w=0&k=20&c=ZM94uhobFv943vaZdSNW3RLdGeR2AppKDjRKC7SRPsk=");
+
+}
